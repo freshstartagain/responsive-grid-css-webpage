@@ -3,7 +3,6 @@
 Responsive Grid CSS Webpage using grid template areas, css variables, rem units and flexbox.
 
 ![](https://i.imgur.com/UtLR9Ra.gif)
-![](https://i.imgur.com/BQbOoGs.gif)
 
 ## Acknowledgments
 
